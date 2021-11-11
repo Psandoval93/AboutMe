@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Psandoval93
+- 👋 Hi, I’m @PhilSandoval
 - 👀 I’m interested in learning and becoming efficient in multiple coding languages. I strive for the best and am willing to aqcuire any knowledge that is willing to be given.
       I hope to start as an intern, gain experience and knowledge, then eventually be offered a full-time position.
 - 🌱 I’m currently learning the coding language Python3 and Java. I have taken a introduction course for Python3 (Introduction to Script) and I am now current taking an introduction
